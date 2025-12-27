@@ -88,6 +88,7 @@ Structured JSON Review
 | FORMAT  | How output should look       |
 
 
-#Author
-Mohana P – Senior Java & Spring Boot Developer
-GitHub
+## Author
+**Mohana P** – Senior Java & Spring Boot Developer  
+[GitHub](https://github.com/MohanaGowda-Code)
+
